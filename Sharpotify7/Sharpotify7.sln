@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharpotify7", "Sparpotify7\Sharpotify7.csproj", "{2FAF3AE9-93B3-427E-A3F1-63AAF7116FBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharpotify7.Library", "Sparpotify7.Library\Sharpotify7.Library.csproj", "{ED0FEA0B-D3DE-4D89-8A61-B7405A836A74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentalisCryptography", "MentalisCryptography\MentalisCryptography.csproj", "{1F913196-1362-44A8-B586-53819BCCF6E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csogg", "csogg\csogg.csproj", "{68144E1C-1783-4B06-8763-D744D44E3910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csvorbis", "csvorbis\csvorbis.csproj", "{754C59AB-98FB-44E2-B598-865FD5F05F88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mono.Security.Cryptography", "Mono.Security.Cryptography\Mono.Security.Cryptography.csproj", "{F00B7D3E-8A5A-4822-BC71-69E3F8869651}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs01
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = csogg\\csogg.csproj
+		SccProjectName1 = csogg
+		SccLocalPath1 = csogg
+		SccProjectUniqueName2 = csvorbis\\csvorbis.csproj
+		SccProjectName2 = csvorbis
+		SccLocalPath2 = csvorbis
+		SccProjectUniqueName3 = MentalisCryptography\\MentalisCryptography.csproj
+		SccProjectName3 = MentalisCryptography
+		SccLocalPath3 = MentalisCryptography
+		SccProjectUniqueName4 = Mono.Security.Cryptography\\Mono.Security.Cryptography.csproj
+		SccProjectName4 = Mono.Security.Cryptography
+		SccLocalPath4 = Mono.Security.Cryptography
+		SccProjectUniqueName5 = Sparpotify7.Library\\Sharpotify7.Library.csproj
+		SccProjectName5 = Sparpotify7.Library
+		SccLocalPath5 = Sparpotify7.Library
+		SccProjectUniqueName6 = Sparpotify7\\Sharpotify7.csproj
+		SccProjectName6 = Sparpotify7
+		SccLocalPath6 = Sparpotify7
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FAF3AE9-93B3-427E-A3F1-63AAF7116FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FAF3AE9-93B3-427E-A3F1-63AAF7116FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FAF3AE9-93B3-427E-A3F1-63AAF7116FBC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2FAF3AE9-93B3-427E-A3F1-63AAF7116FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FAF3AE9-93B3-427E-A3F1-63AAF7116FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FAF3AE9-93B3-427E-A3F1-63AAF7116FBC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{ED0FEA0B-D3DE-4D89-8A61-B7405A836A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0FEA0B-D3DE-4D89-8A61-B7405A836A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0FEA0B-D3DE-4D89-8A61-B7405A836A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0FEA0B-D3DE-4D89-8A61-B7405A836A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F913196-1362-44A8-B586-53819BCCF6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F913196-1362-44A8-B586-53819BCCF6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F913196-1362-44A8-B586-53819BCCF6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F913196-1362-44A8-B586-53819BCCF6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68144E1C-1783-4B06-8763-D744D44E3910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68144E1C-1783-4B06-8763-D744D44E3910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68144E1C-1783-4B06-8763-D744D44E3910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68144E1C-1783-4B06-8763-D744D44E3910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{754C59AB-98FB-44E2-B598-865FD5F05F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754C59AB-98FB-44E2-B598-865FD5F05F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754C59AB-98FB-44E2-B598-865FD5F05F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754C59AB-98FB-44E2-B598-865FD5F05F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F00B7D3E-8A5A-4822-BC71-69E3F8869651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00B7D3E-8A5A-4822-BC71-69E3F8869651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00B7D3E-8A5A-4822-BC71-69E3F8869651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00B7D3E-8A5A-4822-BC71-69E3F8869651}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
