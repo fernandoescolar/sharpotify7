@@ -1,7 +1,6 @@
 # sharpotify7
 
-*Project Description*
-{project:description}
+The sharpotify7 is a sharpotify (spotify in c#) port to windows phone (>= 7.1 Code name Mango). And also a simple client wich is already under development.
 
 *What is done?*
 - The spotify connection (with search and playlist edit, browse, delete and create funtianalities).
